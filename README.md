@@ -12,5 +12,5 @@
 ### Python version 3.7.2 has been used to carry out the entire project
 ### Jupyter Notebook was used as an IDE
 ### The dataset files are present within the project folder. File path needs to be changed in order to run the project on another machine.
-### Extension - 
+### Extension - For Task 3 two ML models (SVM AND Random Forest) were implemented that uses more than one day to predict each market index 
 ### Time Travel days used -
